@@ -14,19 +14,21 @@ I'm a passionate data scientist in training, with a deep love for sports, machin
 - **JavaScript**: Exploring the world of web development to integrate data science projects into interactive web applications.
 
 ## 💻 Featured Projects
-### [NBA Salary Forecasting](https://github.com/ghadfield32/NBA_Salary_Forecasting)
-Predicting NBA player salaries using machine learning models trained on decades of player statistics and performance data. This project identifies the most overpaid and underpaid players and analyzes salary trends across different stages of a player's career.
 
-### [Custom Computer Vision for Basketball Analysis](https://github.com/ghadfield32/Basketball_Shot_Tracking)
+### [Coaching Analysis in the NBA](https://github.com/ghadfield32/coach_analysis)
+A comprehensive analysis of coaching effectiveness in the NBA, focusing on pre- and post-timeout performance, shot area efficiency, and defensive strategies. This project showcases the integration of advanced statistical methods with basketball data.
+subset:
+  ### [NBA Salary Forecasting](https://nba-salary-predictions.streamlit.app/)
+  Predicting NBA player salaries using machine learning models trained on decades of player statistics and performance data. This project identifies the most overpaid and underpaid players and analyzes salary trends across different stages of a player's career.
+
+### [Custom Computer Vision for Basketball Analysis](https://github.com/ghadfield32/YOLO_exploration)
+# Linkedin ex: [Link](https://www.linkedin.com/posts/geoffhadfield32_machinelearning-computervision-yolov10-activity-7204574921685880832-3jh5?utm_source=share&utm_medium=member_desktop)
 Utilized YOLO with a custom dataset to track team and ball movements on the basketball court. This project demonstrates my ability to apply deep learning models to real-world sports scenarios.
 
-### [Coaching Analysis in the NBA](https://github.com/ghadfield32/Coaching_Analysis)
-A comprehensive analysis of coaching effectiveness in the NBA, focusing on pre- and post-timeout performance, shot area efficiency, and defensive strategies. This project showcases the integration of advanced statistical methods with basketball data.
-
-### [Deep Learning Model Framework](https://github.com/ghadfield32/Deep_Learning_Framework)
+### [Deep Learning Model Framework](https://github.com/ghadfield32/Deep_learning)
 A collection of neural network and transformer models designed for various machine learning tasks, including NLP, computer vision, and reinforcement learning.
 
-### [Faster R-CNN Instance Segmentation](https://github.com/ghadfield32/Faster_R-CNN_Instance_Segmentation)
+### [Faster R-CNN Instance Segmentation](https://github.com/ghadfield32/torchrcnn_coco_roboflow)
 Simplified the process of training Faster R-CNN models with annotated image sets, focusing on sports-related data to enhance performance analysis.
 
 ## 💞️ Looking to Collaborate
