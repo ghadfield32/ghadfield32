@@ -32,7 +32,7 @@ I'm a passionate data scientist in training, with a deep love for sports, machin
 ### [Coaching Analysis in the NBA](https://github.com/ghadfield32/coach_analysis)
 A comprehensive analysis of coaching effectiveness in the NBA, focusing on pre- and post-timeout performance, shot area efficiency, and defensive strategies. This project showcases the integration of advanced statistical methods with basketball data.
 
-### [NBA Salary Forecasting](https://nba-salary-predictions.streamlit.app/)
+### [NBA Trade Forecasting](https://nba-trade-analysis.streamlit.app/)
 Predicting NBA player salaries using machine learning models trained on decades of player statistics and performance data. This project identifies the most overpaid and underpaid players and analyzes salary trends across different stages of a player's career.
 
 ### [Custom Computer Vision for Basketball Analysis](https://github.com/ghadfield32/YOLO_exploration)
