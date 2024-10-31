@@ -34,6 +34,8 @@ A comprehensive analysis of coaching effectiveness in the NBA, focusing on pre- 
 
 ### [NBA Trade Forecasting](https://nba-trade-analysis.streamlit.app/)
 Predicting NBA player salaries using machine learning models trained on decades of player statistics and performance data. This project identifies the most overpaid and underpaid players and analyzes salary trends across different stages of a player's career.
+### [Ollama Neo4j Lanchain Repository](https://github.com/ghadfield32/ollama_neo4j_networkx_llama3_app_exs)
+This repository provides several advanced Streamlit applications that leverage Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques, each tailored to unique tasks, such as database optimization and real-time sports news retrieval. The setup is Dockerized for consistent cross-platform deployment, including GPU support.
 
 ### [Custom Computer Vision for Basketball Analysis](https://github.com/ghadfield32/YOLO_exploration)
 Utilized YOLO with a custom dataset to track team and ball movements on the basketball court. This project demonstrates my ability to apply deep learning models to real-world sports scenarios.
