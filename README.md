@@ -1,8 +1,5 @@
 # Hi, I’m Geoff Hadfield! 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghadfield32&show_icons=true&theme=radical)](https://github.com/ghadfield32)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghadfield32&layout=compact)](https://github.com/ghadfield32)
-
 ---
 
 ## 🔭 About Me
