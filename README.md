@@ -38,6 +38,10 @@ I’m an aspiring Data Scientist and Analytics Engineer with hands-on experience
 
 ---
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghadfield32&show_icons=true&theme=radical)](https://github.com/ghadfield32)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghadfield32&layout=compact)](https://github.com/ghadfield32)
+
+
 ## 📫 Contact
 - 🔗 [LinkedIn](https://www.linkedin.com/in/geoffhadfield32)
 - 📄 Porfolio [link](https://www.datascienceportfol.io/ghadfield32)
