@@ -4,31 +4,29 @@
 I'm a passionate data scientist in training, with a deep love for sports, machine learning, and AI. My mission is to blend my expertise in data science with my passion for sports to push the boundaries of sports analytics. Whether it's basketball, football, or baseball, I'm committed to discovering new insights that can drive performance and strategy at the highest levels of competition.
 
 ## 👀 Interests
-- **Sports Analytics**: Exploring the intersection of data science and sports to uncover hidden patterns and enhance decision-making.
+- **Sports Deep Learning (Bayesian Methods)**: Exploring the intersection of data science and sports to uncover hidden patterns and enhance decision-making. Bayesian Methods tackle what point estimate models can't, giving interval to help with the uncertainty, invidiualized curves that are lended weights via partial pooling so people with low volume aren't estimated incorrectly. 
 - **Machine Learning & AI**: Continuously learning and experimenting with cutting-edge techniques in ML and AI to build smarter models.
 - **Technology**: Enthusiastic about leveraging the latest technologies, from Python and R to cloud computing and big data platforms.
 
-## 🌱 Currently Learning
-- **Machine Learning & Deep Learning**: Expanding my knowledge of advanced algorithms, including neural networks, reinforcement learning, and NLP.
-- **Python & Data Science**: Diving deeper into Python's vast ecosystem, focusing on libraries like Pandas, Scikit-learn, and PyTorch.
-- **Big Data Technologies**: Enhancing skills in Hadoop, PySpark, and Neo4j for scalable data analysis.
-- **Cloud Technologies**: Leveraging SAS Viya and AWS for robust cloud-based data analysis.
 
 ## 💼 Professional Experience
-### Data Analytical Developer - JP Morgan Chase
+### Analytics Engineer - JP Morgan Chase
 - Developed predictive models using PyTorch, optimizing binary classifications and enhancing conversion rates.
 - Implemented business channel crossover analysis using Markov Chains, K-means clustering, and logistic regression.
 - Launched and managed a Snowflake instance for cloud-based data analysis, setting up ETL and automations for Channel Engagement teams.
 
-### Business Analyst - JP Morgan Chase
-- Automated reporting processes with Alteryx, SAS, SQL, and Tableau, saving 180 hours monthly.
+### Senior Business Analyst - JP Morgan Chase
+- led team of 10 in automated reporting processes with Alteryx, SAS, SQL, and Tableau, saving 180 hours monthly.
 - Developed analytics for senior management to aid strategic decision-making through impactful data visualizations.
 
-### Business Analysis Specialist - JP Morgan Chase
+### Business Analyst - JP Morgan Chase
 - Optimized departmental processes using SQL, Access, and Alteryx, resulting in significant time savings and deeper analytics insights.
 - Directed analytics for the LiveChat department, establishing new processes and reporting systems.
 
 ## 💻 Featured Projects
+### Capstone for Masters: [LSTM Exhaustion Forecasting](https://github.com/ghadfield32/capstone4ds_template_IDC6940_Fatigue_Exhaustion_Time_Series_Forecasting)
+### [Biomechanical feedback](https://github.com/ghadfield32/spl_freethrow_biomechanics_analysis_ml_prediction)
+
 ### [Coaching Analysis in the NBA](https://github.com/ghadfield32/coach_analysis)
 A comprehensive analysis of coaching effectiveness in the NBA, focusing on pre- and post-timeout performance, shot area efficiency, and defensive strategies. This project showcases the integration of advanced statistical methods with basketball data.
 
@@ -51,7 +49,7 @@ Simplified the process of training Faster R-CNN models with annotated image sets
 - **Data Analysis and Visualization**: Excel, SAS, Tableau, Power BI
 - **Machine Learning/Deep Learning**: PyTorch, Scikit-learn, XGBoost, Random Forest, Linear & Logistic Regression, KNN
 - **Big Data Technologies**: Hadoop, PySpark, Neo4j
-- **Cloud Technologies**: SAS Viya, AWS
+- **Cloud Technologies**: SAS Viya, AWS, GCP, Azure
 - **Other Technologies**: Docker for containerization, Streamlit for web app development
 - **Certifications**: Python Certified Entry-Level Programmer (PCEP), Advanced Alteryx Designer
 
