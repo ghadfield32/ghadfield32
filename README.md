@@ -42,7 +42,7 @@ I’m an aspiring Data Scientist and Analytics Engineer with hands-on experience
 ---
 
 ## 📫 Contact
-- 📄 [Resume](https://github.com/ghadfield32/Geoffrey__Hadfield_-_.docx)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/geoffhadfield32)  
-- 📧 ghadfield@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geoffhadfield32)
+- 📄 Porfolio [link](https://www.datascienceportfol.io/ghadfield32)
+- 📧 ghadfield32@gmail.com
 
