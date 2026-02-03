@@ -40,8 +40,6 @@ I’m an aspiring Data Scientist and Analytics Engineer with hands-on experience
 
 ![Followers](https://img.shields.io/github/followers/ghadfield32?style=social)
 ![Stars](https://img.shields.io/github/stars/ghadfield32?style=social)
-![Repo Stars](https://img.shields.io/github/stars/ghadfield32/coach_analysis?style=social)
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghadfield32&show_icons=true&theme=radical)
 
 
 
